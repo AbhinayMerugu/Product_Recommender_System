@@ -1,0 +1,1 @@
+This content-based product recommender system suggests similar products from a selection of 5300 items across categories like mobiles, headphones, watches, televisions, and shoes. It analyzes product content to provide personalized recommendations, along with direct purchase links, enhancing the shopping experience for users.

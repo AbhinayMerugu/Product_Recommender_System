@@ -138,7 +138,13 @@ images=pickle.load(open("images1.pkl","rb"))
 similarity=pickle.load(open("similarity1.pkl","rb"))
 link=pickle.load(open("link.pkl","rb"))
 
-
+st.markdown("""
+    <div>
+        <p style="font-size:14px; color:#555; text-align:center;">
+            Important Information: Search and discover personalized recommendations for products such as mobiles, headphones, watches, televisions, and shoes.
+        </p>
+    </div>
+""", unsafe_allow_html=True)
 
 
 st.markdown("""

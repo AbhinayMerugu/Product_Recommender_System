@@ -6,7 +6,11 @@ from PIL import Image
 from io import BytesIO
 
 
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="Flight Price Prediction",
+    page_icon="🤖",
+    layout="wide"
+)
 st.markdown(
     """
     <style>

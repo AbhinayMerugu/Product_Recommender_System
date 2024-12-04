@@ -7,7 +7,7 @@ from io import BytesIO
 
 
 st.set_page_config(
-    page_title="Flight Price Prediction",
+    page_title="Product Recommender System",
     page_icon="🤖",
     layout="wide"
 )
